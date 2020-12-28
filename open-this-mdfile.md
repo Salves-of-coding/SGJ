@@ -1,0 +1,17 @@
+# Open this MD File
+## MD 형식으로 작성된 파일입니다.
+### md-file
+- 간단한 문법을 가지고 있습니다.
+- 따라서 관리하기 용이합니다.
+- 메모장 등의 프로그램을 통해서도 생성, 편집이 가능합니다.
+- 웹 등 리더가 있으면 정리된 자료를 더 깔끔하게 볼 수 있습니다.
+<br> <br>
+- MarkDown의 기본적인 내용입니다.
+
+### 사용 예시
+- [마크다운 문법 관련 사이트](https://heropy.blog/2017/09/30/markdown/)
+link입니다.
+- ![블랙핑크](https://pyxis.nymag.com/v1/imgs/b9b/07a/9382d3b55e22d189d83bc8bddc54de945c-28-blackpink.rhorizontal.w700.jpg)
+image입니다.
+## Pull Request
+### [info-of-pull-request](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
